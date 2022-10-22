@@ -1,5 +1,5 @@
 # assignment_2_Mockup-
-This is a function mockup for Newbie's Coffee. A few changes have been implemented for the functional mockup.
+This is a functional mockup for Newbie's Coffee. A few changes have been implemented for the functional mockup.
 
 
 -Using grids to make the cards due to a filtering issue utilizing materialize formatting.
